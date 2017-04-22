@@ -1,4 +1,7 @@
-# test coverage for  [ansi-to-html (v0.6.0)](https://github.com/rburns/ansi-to-html#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-ansi-to-html.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ansi-to-html) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ansi-to-html.svg)](https://travis-ci.org/npmtest/node-npmtest-ansi-to-html)
+# npmtest-ansi-to-html
+
+#### basic test-coverage for  [ansi-to-html (v0.6.0)](https://github.com/rburns/ansi-to-html#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-ansi-to-html.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ansi-to-html) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ansi-to-html.svg)](https://travis-ci.org/npmtest/node-npmtest-ansi-to-html)
+
 #### Convert ansi escaped text streams to html.
 
 [![NPM](https://nodei.co/npm/ansi-to-html.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/ansi-to-html)
